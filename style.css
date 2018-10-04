@@ -1,0 +1,74 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+.main-logo{
+	display: inline;
+	position: absolute;
+	left: 5px;
+
+}
+ul{
+	background-color:#000000ab;
+	padding-top: 10px;
+
+}
+.card-img-top{
+	height: 200px;
+	width: 400px;;
+}
+.card-text{
+	
+	margin: 0px;
+
+}
+.logo-name{
+	color: red;
+}
+	
+a{
+	color: white;
+}
+.images{
+	position: absolute;
+	right: 5px;
+	margin: 0px;
+}
+.list-group {
+	position: absolute;
+	left: 5px;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+}
+.logo-name {
+	display: inline;
+}
+li{
+	display: inline;
+}
+img{
+	height: 33px;
+	width: 36px;
+}
+.card{
+	height: 400px;
+	width: 400px;
+}
+h4{
+	padding-top: 12px;
+}
+.main-card{
+	height: 200px;
+	width: 200px;
+}
+
+
+}
+	
+
+/* Write all your CSS here! */
